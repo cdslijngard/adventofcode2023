@@ -1,7 +1,8 @@
-# adventofcode2023
+# Advent of Code 2023
 My futile attempts at solving the daily puzzles this holiday season.
+This is my first time throwing myself at the AOC competition.
 
-# run the code
+# Run the code
 Try using Node, for example:
 `node <day>`
 
