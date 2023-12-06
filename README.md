@@ -2,6 +2,9 @@
 My futile attempts at solving the daily puzzles this holiday season.
 This is my first time throwing myself at the AOC competition.
 
+# Install dependencies
+`npm install`
+
 # Run the code
 Try using Node, for example:
 `node <day>`
